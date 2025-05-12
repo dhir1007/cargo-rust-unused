@@ -1,0 +1,11 @@
+/Users/dhirkatre/Documents/GitHub/cargo-rust-unused/target/debug/deps/libquote-65e81102713bec41.rmeta: /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/lib.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ext.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/format.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ident_fragment.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/to_tokens.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/runtime.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/spanned.rs
+
+/Users/dhirkatre/Documents/GitHub/cargo-rust-unused/target/debug/deps/quote-65e81102713bec41.d: /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/lib.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ext.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/format.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ident_fragment.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/to_tokens.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/runtime.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/spanned.rs
+
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/lib.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ext.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/format.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/ident_fragment.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/to_tokens.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/runtime.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.40/src/spanned.rs:
