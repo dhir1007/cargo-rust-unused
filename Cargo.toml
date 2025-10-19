@@ -2,10 +2,10 @@
 name = "cargo-rust-unused"
 version = "0.1.0"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Dhir Katre dhirkatre@gmail.com"]
 description = "A CLI tool for detecting unused code in Rust projects"
 license = "MIT"
-repository = "https://github.com/yourusername/cargo-rust-unused"
+repository = "https://github.com/Dhir0808/cargo-rust-unused"
 keywords = ["cargo", "unused", "dead-code", "analysis", "cli"]
 categories = ["development-tools", "command-line-utilities"]
 

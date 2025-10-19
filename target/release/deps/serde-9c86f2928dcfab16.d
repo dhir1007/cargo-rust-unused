@@ -1,0 +1,14 @@
+/Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/deps/libserde-9c86f2928dcfab16.rmeta: /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/build/serde-29bb91415f861254/out/private.rs
+
+/Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/deps/libserde-9c86f2928dcfab16.rlib: /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/build/serde-29bb91415f861254/out/private.rs
+
+/Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/deps/serde-9c86f2928dcfab16.d: /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/build/serde-29bb91415f861254/out/private.rs
+
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs:
+/Users/dhirkatre/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs:
+/Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/build/serde-29bb91415f861254/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/dhirkatre/Documents/Github/cargo-rust-unused/target/release/build/serde-29bb91415f861254/out
