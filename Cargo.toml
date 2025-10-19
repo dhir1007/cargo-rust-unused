@@ -8,7 +8,22 @@ license = "MIT"
 repository = "https://github.com/Dhir0808/cargo-rust-unused"
 keywords = ["cargo", "unused", "dead-code", "analysis", "cli"]
 categories = ["development-tools", "command-line-utilities"]
+include = [
+  "src/**",
+  "Cargo.toml"
+]
 
+exclude = [
+  "docs/**",
+  "tests/**",
+  "examples/**",
+  "benches/**",
+  "assets/**",
+  "fixtures/**",
+  "screenshots/**",
+  "target/**",
+  ".github/**"
+]
 [dependencies]
 syn = { version = "2.0", features = ["full", "visit", "extra-traits"] }
 walkdir = "2.4"
