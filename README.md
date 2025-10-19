@@ -1,5 +1,8 @@
 # cargo-rust-unused
-
+[![Crates.io](https://img.shields.io/crates/v/cargo-rust-unused.svg)](https://crates.io/crates/cargo-rust-unused)
+[![Docs.rs](https://docs.rs/cargo-rust-unused/badge.svg)](https://docs.rs/cargo-rust-unused)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
 A CLI tool for detecting unused code in Rust projects. This tool helps you maintain clean and efficient codebases by identifying:
 
 - Unused dependencies in `Cargo.toml`
